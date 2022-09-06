@@ -15,19 +15,19 @@ h1{
     text-align: center;
     color: darkblue;
 }
-body{
-   margin: 3rem;
-    padding: 1rem;
+.body{
+  text-align: center;
+    margin-left: 2rem;
 }
     
 
-#body{
+/* #body{
    display: flex;
    justify-content: center;
    align-items: center;
    height: 300px;
    width: 300px; 
-}
+} */
 #scoreBoard{
     position: absolute;
     top: 700px;
