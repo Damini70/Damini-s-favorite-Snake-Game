@@ -21,13 +21,13 @@ h1{
 }
     
 
-/* #body{
+#body{
    display: flex;
    justify-content: center;
    align-items: center;
    height: 300px;
    width: 300px; 
-} */
+}
 #scoreBoard{
     position: absolute;
     top: 700px;
