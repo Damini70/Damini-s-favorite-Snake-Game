@@ -15,6 +15,11 @@ h1{
     text-align: center;
     color: darkblue;
 }
+body{
+   margin: 3rem;
+    padding: 1rem;
+}
+    
 
 #body{
    display: flex;
