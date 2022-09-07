@@ -9,6 +9,8 @@ food = {x: 6, y: 7};
 
 //Game functions
 function main(ctime) {
+//      ctime = current time
+//      lastpaint time = the time when render completes.
     window.requestAnimationFrame(main);
     if((ctime - lastPaintTime)/1000 < 1/speed){
         return;
